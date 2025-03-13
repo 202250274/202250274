@@ -3,7 +3,7 @@
 ## 🚀 About Me
 - MLOps 및 딥러닝에 관심이 많은 엔지니어입니다.
 - 네이버 부스트캠프를 수료하여 Computer Vision Task를 수행했습니다.
-- 새로운 연구를 하는 것을 좋아합니다.
+- 새로운 도전을 하는 것을 좋아합니다.
 
 ## 🎓 Education
 | **학교** | **전공** | **기간** | **상태** |
@@ -28,8 +28,8 @@
 ## 🏆 Projects
 | 날짜 | 프로젝트명 | 설명 | 기술 스택 | 링크 |
 |------|------------|------|------------|------|
-| 2025-01 ~ 02 | Final Project  | Audio-LLM Lightweight Modeling Task | PyTorch, Python, Wandb, GCP, Github | [Git Link](https://github.com/boostcampaitech7/level4-cv-finalproject-hackathon-cv-13-lv3) |
-| 2024-11 | Semantic Segmentation | Handbone X-Ray Segmentation Task | PyTorch, Python, GCP, Github | [Git Link](https://github.com/boostcampaitech7/level2-cv-semanticsegmentation-cv-13-lv3) |
-| 2024-10 | Data-Centric CV | Multi Language Receipt OCR | PyTorch, Python, cvat, GCP, Github | [Git Link](https://github.com/boostcampaitech7/level2-cv-datacentric-cv-14) |
-| 2024-10 | Object Detection | Trash Detection Task | PyTorch, Python, Wandb, Github | [Git Link](https://github.com/boostcampaitech7/level2-objectdetection-cv-14) |
-| 2024-09 | Image Classification | Sketch Image Classification Task | PyTorch, Python, Github | [Git Link](https://github.com/boostcampaitech7/level1-imageclassification-cv-14) |
+| 2025-01 ~ 02 | Final Project  | Audio-LLM Lightweight Modeling Task | PyTorch, Python, Wandb, GCP, Github | [Git Link](https://github.com/202250274/Audio-LLM-Lightweight-Project) |
+| 2024-11 | Semantic Segmentation | Handbone X-Ray Segmentation Task | PyTorch, Python, GCP, Github | [Git Link](https://github.com/202250274/Handbone-Image-Semantic-Segmentation-Project) |
+| 2024-10 | Data-Centric CV | Multi Language Receipt OCR | PyTorch, Python, cvat, GCP, Github | [Git Link](https://github.com/202250274/Multilingual-Receipt-OCR-Task) |
+| 2024-10 | Object Detection | Trash Detection Task | PyTorch, Python, Wandb, Github | [Git Link](https://github.com/202250274/Object-Detection-Project) |
+| 2024-09 | Image Classification | Sketch Image Classification Task | PyTorch, Python, Github | [Git Link](https://github.com/202250274/Sketch-Image-Classification-Project) |
